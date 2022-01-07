@@ -18,3 +18,5 @@ Some of my next goals:
 -categorizing weapons with damage types, giving enemies resistences and weaknesses
 -creating special attacks that utilize strength and intelligence stats
 -generating flavor text according to rooms and enemies present
+
+Launch the game from the tester file
